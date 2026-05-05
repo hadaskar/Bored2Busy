@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDAL", "IDAL.csproj", "{765D38B5-A6CD-566C-7C3E-B8EAC6894C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765D38B5-A6CD-566C-7C3E-B8EAC6894C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765D38B5-A6CD-566C-7C3E-B8EAC6894C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765D38B5-A6CD-566C-7C3E-B8EAC6894C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765D38B5-A6CD-566C-7C3E-B8EAC6894C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52536B5E-C5F8-45ED-8C76-7E4AC47AADA1}
+	EndGlobalSection
+EndGlobal

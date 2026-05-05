@@ -1,0 +1,14 @@
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\DAL\obj\Debug\net8.0\ref\DAL.dll

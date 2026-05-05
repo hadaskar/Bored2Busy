@@ -1,0 +1,11 @@
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\h0534\Documents\limudim BH\C#\core\core\BLL\obj\Debug\net8.0\ref\BLL.dll

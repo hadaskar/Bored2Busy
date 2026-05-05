@@ -1,0 +1,11 @@
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\bin\Debug\net8.0\core.deps.json
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\bin\Debug\net8.0\core.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\bin\Debug\net8.0\core.pdb
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\core.AssemblyInfoInputs.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\core.AssemblyInfo.cs
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\core.csproj.CoreCompileInputs.cache
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\core.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\refint\core.dll
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\core.pdb
+C:\Users\h0534\Documents\limudim BH\C#\core\core\core\obj\Debug\net8.0\ref\core.dll
